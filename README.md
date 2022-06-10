@@ -1,5 +1,5 @@
 
-![](https://cdn-images-1.medium.com/max/867/1*yjeDDFZjSUV-6fcaisCRUQ.png)
+<img src="https://cdn-images-1.medium.com/max/867/1*yjeDDFZjSUV-6fcaisCRUQ.png" style="width:1000px;height:240px;">
 
 <h1 align="center">Hi 👋, I'm Koushick Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
