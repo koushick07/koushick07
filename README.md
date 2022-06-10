@@ -1,3 +1,6 @@
+
+![](https://cdn-images-1.medium.com/max/867/1*yjeDDFZjSUV-6fcaisCRUQ.png)
+
 <h1 align="center">Hi 👋, I'm Koushick Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -10,9 +13,11 @@
 
 - 👯 I’m looking to collaborate on **project**
 
-- 💬 Ask me about **Web,MEARN,DSA**
+- 💬 Ask me about **Web,MERN,DSA**
 
 - 📫 How to reach me **koushick108@gmail.com**
+
+- 📄 Know about my experiences [https://koushick07.github.io/portfolio/sfx/index.html](https://koushick07.github.io/portfolio/sfx/index.html)
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
@@ -30,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koushick07&show_icons=true&locale=en" alt="koushick07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushick07&" alt="koushick07" /></p>
+
