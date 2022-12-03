@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushick07&label=Profile%20views&color=0e75b6&style=flat" alt="koushick07" /> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **Data Analysis**
 
-- 🌱 I’m currently learning **DSA, MERN STACK**
+- 🌱 I’m currently learning **DSA, Machine Learning, Data Analysis**
 
 - 👯 I’m looking to collaborate on **project**
 
-- 💬 Ask me about **Web,MERN,DSA**
+- 💬 Ask me about **ML,Web,MERN,DSA**
 
 - 📫 How to reach me **koushick108@gmail.com**
 
