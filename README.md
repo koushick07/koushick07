@@ -25,6 +25,16 @@
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
+## Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/koushick-mondal-11255321a/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="60" width="50" /></a>
+
+
+
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/koushick-mondal-11255321a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koushick-mondal-11255321a" height="30" width="40" /></a>
