@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **DSA,ML,DA**
 
-- 📫 How to reach me **koushick108@gmail.com**
+- 📫 How to reach me **koushickmondal2021@gmail.com**
 
 - 📄 Know about my experiences [https://koushick07.github.io/portfolio/sfx/index.html](https://c.github.io/portfolio/sfx/index.html)
 
