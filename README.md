@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **koushick108@gmail.com**
 
-- 📄 Know about my experiences [https://koushick07.github.io/portfolio/sfx/index.html](https://koushick07.github.io/portfolio/sfx/index.html)
+- 📄 Know about my experiences [https://koushick07.github.io/portfolio/sfx/index.html](https://c.github.io/portfolio/sfx/index.html)
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
@@ -30,13 +30,9 @@
 <a href="https://www.linkedin.com/in/koushick-mondal-11255321a/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="60" width="50" /></a>
   <a href="https://www.leetcode.com/koushick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="koushick" height="30" width="40" /></a>
-
-
-
-
 </p>
 
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=koushick07)](https://github.com/koushick07/github-readme-stats)
 
 
 
