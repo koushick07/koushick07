@@ -1,4 +1,5 @@
-![](https://github.com/koushick07/koushick07/blob/main/Koushick%20Mondal.jpg)
+
+[![@koushick07s Holopin board](https://holopin.me/koushick07)](https://holopin.io/@koushick07)
 
 <h1 align="center">Hi 👋, I'm Koushick Mondal</h1>
 <h3 align="center">A passionate developer from India</h3>
