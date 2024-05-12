@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software Development<br>👯 I’m looking to collaborate on Data Engineering and Cloud Computing<br>🤝 I’m looking for help with Real Time projects<br>🌱 I’m currently learning Web<br>💬 Ask me about anything<br>
+🔭 I’m currently working on Software Development<br>👯 I’m looking to collaborate on Data Engineering and Cloud Computing<br>🤝 I’m looking for help with Real Time projects<br>🌱 I’m currently learning Cloud Architecture<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
